@@ -15,3 +15,9 @@ Currently I've made 6 components:
 6. Funnel
 
 # Images
+<img width="947" height="945" alt="Screenshot 2026-10-26 082738" src="https://github.com/user-attachments/assets/e85f49f6-9b5a-4492-8e2c-e9a0247c05e0" />
+<img width="1312" height="836" alt="Screenshot 2026-10-26 082754" src="https://github.com/user-attachments/assets/de8ab2c8-1abe-4de5-9f53-b4a5e5f659b9" />
+<img width="910" height="934" alt="Screenshot 2026-10-26 082806" src="https://github.com/user-attachments/assets/4c594aa9-3254-4a91-8a7e-4533c9e66017" />
+<img width="709" height="595" alt="Screenshot 2026-10-26 082832" src="https://github.com/user-attachments/assets/ab8b8565-c0db-4afe-a76e-1bac90f36a6f" />
+<img width="983" height="652" alt="Screenshot 2026-10-26 082822" src="https://github.com/user-attachments/assets/94dc798e-6b62-4f58-91bd-91b3889eac2c" />
+<img width="424" height="676" alt="Screenshot 2026-10-26 082815" src="https://github.com/user-attachments/assets/d5c900ed-cb60-49b4-9674-496349d53bf1" />
